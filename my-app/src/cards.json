@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "image": "https://i.pinimg.com/originals/b7/5b/33/b75b339f4f756a8ff4458948fefca590.jpg",
+        "clicked": false
+    },
+    {
+        "id":2,
+        "image": "https://static1.squarespace.com/static/57d2d2eb5016e1b624ddfa52/t/5b75c66440ec9a87455831fa/1534445172095/HayPigs_Harlequin_Guinea_Pig_005.jpg",
+        "clicked": false
+    },
+    {
+        "id":3,
+        "image": "https://i.pinimg.com/originals/54/4f/12/544f12a75ee6e6aeba2dcdb282c58480.jpg",
+        "clicked": false
+    },
+    {
+        "id":4,
+        "image": "https://res.cloudinary.com/sagacity/image/upload/c_crop,h_1001,w_1500,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/Kitten_murder_Jeff_Merkley_2_copy_hdpoxd.jpg",
+        "clicked": false
+    },
+    {
+        "id":5,
+        "image": "https://img.purch.com/w/660/aHR0cDovL3d3dy5saXZlc2NpZW5jZS5jb20vaW1hZ2VzL2kvMDAwLzEwNC84MTkvb3JpZ2luYWwvY3V0ZS1raXR0ZW4uanBn",
+        "clicked": false
+    },
+    {
+        "id":6,
+        "image": "http://earthporm.com/wp-content/uploads/2015/04/cute-pet-rats-13__880.jpg",
+        "clicked": false
+    },
+    {
+        "id":7,
+        "image": "https://www.thesprucepets.com/thmb/JjfGsn2SaCRYxbvvXRLURSMNebM=/2832x2832/smart/filters:no_upscale()/cute-white-rat-120691475-58a5f3ea5f9b58a3c9067915.jpg",
+        "clicked": false
+    },
+    {
+        "id":8,
+        "image": "https://pbs.twimg.com/profile_images/1018424684180856832/ohSrK1MY_400x400.jpg",
+        "clicked": false
+    },
+    {
+        "id":9,
+        "image": "https://g77v3827gg2notadhhw9pew7-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/puppy-vomiting_canna-pet-1024x682.jpg",
+        "clicked": false
+    },
+    {
+        "id":10,
+        "image": "https://www.rover.com/blog/wp-content/uploads/2018/11/chihuahua-810789_1920-960x540.jpg",
+        "clicked": false
+    }
+]
