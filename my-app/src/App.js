@@ -14,6 +14,7 @@ import "./App.css";
 
 
 
+
   
 class App extends Component {
   // Setting this.state.cards to the cards json array
@@ -54,7 +55,11 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+        
+
+
         <header className="App-header">
+          
           <h1 className="App-title">Click the Pet</h1>
           <p className="App-intro">
              Do not click the same image twice!
@@ -74,7 +79,7 @@ class App extends Component {
             />
           ))}
         </Wrapper>
-        
+        <footer>Yevheniia Dilekoglu 2019</footer>
     </div>
     );
   }
