@@ -3,4 +3,4 @@
 
 ## Do you want to have some fun?
 ### Click [here](https://stark-sands-75598.herokuapp.com/) to start the game!(Wait a little bit, it takes time to load)
-### **Rules are pretty simple! Don't click the same image twice!
+### ** Rules ** are pretty simple! Don't click the same image twice!
